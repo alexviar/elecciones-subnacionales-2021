@@ -1,0 +1,416 @@
+CODIGO_MESA|DESCRIPCION|CODIGO_PAIS|NOMBRE_PAIS|CODIGO_DEPARTAMENTO|NOMBRE_DEPARTAMENTO|CODIGO_PROVINCIA|NOMBRE_PROVINCIA|CODIGO_SECCION|NOMBRE_MUNICIPIO|CODIGO_LOCALIDAD|NOMBRE_LOCALIDAD|CODIGO_RECINTO|NOMBRE_RECINTO|NUMERO_MESA|INSCRITOS_HABILITADOS|CID|MAS-IPSP|MTS|P.S.T.|VOTO_VALIDO|VOTO_BLANCO|VOTO_NULO|VOTO_EMITIDO|VOTO_VALIDO_SISTEMA|VOTO_EMITIDO_SISTEMA
+9000017|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2751|Nueva Esperanza|13|U.E. Nueva Esperanza|1|136|0|56|63|0|119|1|1|121|119|121
+9000027|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|3|U. E. Instituto Americano|1|218|0|60|109|0|169|1|6|176|169|176
+9000037|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|3|U. E. Instituto Americano|2|220|0|60|107|0|167|0|4|171|167|171
+9000047|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|3|U. E. Instituto Americano|3|220|0|64|107|0|171|1|7|179|171|179
+9000057|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|3|U. E. Instituto Americano|4|145|0|28|89|0|117|0|1|118|117|118
+9000067|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|5|U. E.  America|1|220|0|64|105|0|169|0|3|172|169|172
+9000077|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|5|U. E.  America|2|219|0|57|97|0|154|2|8|164|154|164
+9000087|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|5|U. E.  America|3|182|0|47|94|0|141|1|9|151|141|151
+9000097|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|1|220|0|50|93|0|143|1|5|149|143|149
+9000107|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|2|220|0|57|96|0|153|1|4|158|153|158
+9000117|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|3|220|0|54|85|0|139|0|10|149|139|149
+9000127|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|4|218|0|53|98|0|151|1|2|154|151|154
+9000137|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|5|219|0|54|99|0|153|0|5|158|153|158
+9000147|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|8|U.E. Mariano Baptista|6|69|0|26|25|0|51|1|2|54|51|54
+9000157|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|23|U. E. Vaca Diez (Intermedio)|1|220|0|62|59|0|121|0|5|126|121|126
+9000167|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|23|U. E. Vaca Diez (Intermedio)|2|216|0|60|63|0|123|1|8|132|123|132
+9000177|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|23|U. E. Vaca Diez (Intermedio)|3|220|0|64|73|0|137|0|6|143|137|143
+9000187|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|23|U. E. Vaca Diez (Intermedio)|4|220|0|48|90|0|138|0|6|144|138|144
+9000197|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|23|U. E. Vaca Diez (Intermedio)|5|147|0|50|43|0|93|1|7|101|93|101
+9000207|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|1|220|0|64|88|0|152|0|3|155|152|155
+9000217|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|2|220|0|67|88|0|155|1|6|162|155|162
+9000227|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|3|219|0|51|77|0|128|1|8|137|128|137
+9000237|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|4|220|0|56|78|0|134|1|4|139|134|139
+9000247|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|5|217|0|65|91|0|156|0|3|159|156|159
+9000257|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|6|220|0|62|95|0|157|1|7|165|157|165
+9000267|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|7|218|0|55|96|0|151|1|8|160|151|160
+9000277|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|8|217|0|49|84|0|133|2|5|140|133|140
+9000287|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|9|219|0|64|88|0|152|0|5|157|152|157
+9000297|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|10|220|0|68|84|0|152|3|4|159|152|159
+9000307|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|11|218|0|79|77|0|156|0|1|157|156|157
+9000317|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|12|220|0|61|86|0|147|0|10|157|147|157
+9000327|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|13|219|0|62|97|0|159|1|8|168|159|168
+9000337|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|14|216|0|58|92|0|150|0|5|155|150|155
+9000347|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25028|U. E. Cobija|15|166|0|52|73|0|125|0|1|126|125|126
+9000357|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25034|U. E. Juana Azurduy De Padilla|1|218|0|53|92|0|145|0|19|164|145|164
+9000367|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25034|U. E. Juana Azurduy De Padilla|2|219|0|44|109|0|153|2|7|162|153|162
+9000377|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25034|U. E. Juana Azurduy De Padilla|3|220|0|65|97|0|162|0|4|166|162|166
+9000387|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25034|U. E. Juana Azurduy De Padilla|4|90|0|33|33|0|66|0|2|68|66|68
+9000397|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|1|218|0|72|93|0|165|2|5|172|165|172
+9000407|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|2|216|0|63|105|0|168|3|6|177|168|177
+9000417|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|3|220|0|79|76|0|155|0|6|161|155|161
+9000427|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|4|218|0|65|99|0|164|1|6|171|164|171
+9000437|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|5|220|0|70|99|0|169|0|4|173|169|173
+9000447|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|6|218|0|73|81|0|154|1|3|158|154|158
+9000457|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|7|219|0|58|93|0|151|0|7|158|151|158
+9000467|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|8|220|0|70|83|0|153|3|7|163|153|163
+9000477|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|9|219|0|71|94|0|165|0|3|168|165|168
+9000487|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|10|219|0|67|93|0|160|1|5|166|160|166
+9000497|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|11|219|0|66|104|0|170|1|1|172|170|172
+9000507|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|11|U. E. 11 de Octubre|12|63|0|14|29|0|43|1|1|45|43|45
+9000517|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|1|220|0|87|86|0|173|1|8|182|173|182
+9000527|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|2|219|0|81|78|0|159|1|1|161|159|161
+9000537|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|3|220|0|97|75|0|172|2|4|178|172|178
+9000547|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|4|216|0|66|87|0|153|0|5|158|153|158
+9000557|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|5|219|0|83|81|0|164|2|2|168|164|168
+9000567|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|6|219|0|74|84|0|158|2|5|165|158|165
+9000577|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|7|220|0|80|79|0|159|1|4|164|159|164
+9000587|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|8|219|0|67|94|0|161|1|8|170|161|170
+9000597|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|9|219|0|74|84|0|158|1|7|166|158|166
+9000607|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|10|219|0|65|111|0|176|0|5|181|176|181
+9000617|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|11|219|0|73|86|0|159|1|5|165|159|165
+9000627|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25029|U. E. Mariscal Sucre|12|169|0|58|71|0|129|2|3|134|129|134
+9000637|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|1|220|0|65|99|0|164|2|5|171|164|171
+9000647|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|2|220|0|78|92|0|170|1|8|179|170|179
+9000657|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|3|220|0|62|112|0|174|1|5|180|174|180
+9000667|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|4|220|0|69|87|0|156|2|11|169|156|169
+9000677|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|5|220|0|56|109|0|165|1|8|174|165|174
+9000687|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|6|220|0|72|112|0|184|1|3|188|184|188
+9000697|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|7|220|0|83|88|0|171|0|9|180|171|180
+9000707|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25031|U. E. Rogelia Menacho De Balcazar|8|151|0|45|76|0|121|3|6|130|121|130
+9000717|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|1|220|0|63|118|0|181|2|6|189|181|189
+9000727|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|2|219|0|71|94|0|165|1|8|174|165|174
+9000737|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|3|220|0|84|83|0|167|2|4|173|167|173
+9000747|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|4|220|0|66|102|0|168|2|8|178|168|178
+9000757|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|5|220|0|64|92|0|156|2|7|165|156|165
+9000767|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|6|220|0|73|93|0|166|0|7|173|166|173
+9000777|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|7|219|0|68|85|0|153|0|5|158|153|158
+9000787|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|8|219|0|66|94|0|160|0|10|170|160|170
+9000797|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|9|219|0|79|86|0|165|2|7|174|165|174
+9000807|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|10|220|0|74|95|0|169|1|6|176|169|176
+9000817|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|11|220|0|66|93|0|159|1|10|170|159|170
+9000827|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|12|219|0|60|90|0|150|1|10|161|150|161
+9000837|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|13|220|0|61|111|0|172|1|10|183|172|183
+9000847|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25032|U. E. José Manuel Pando|14|214|0|75|91|0|166|1|4|171|166|171
+9000857|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|1|219|0|59|108|0|167|2|7|176|167|176
+9000867|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|2|220|0|73|93|0|166|2|8|176|166|176
+9000877|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|3|220|0|88|84|0|172|0|8|180|172|180
+9000887|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|4|219|0|60|99|0|159|2|8|169|159|169
+9000897|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|5|220|0|65|97|0|162|1|7|170|162|170
+9000907|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|6|219|0|71|96|0|167|1|4|172|167|172
+9000917|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|7|219|0|60|106|0|166|0|9|175|166|175
+9000927|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|8|220|0|54|102|0|156|0|7|163|156|163
+9000937|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|9|219|0|61|96|0|157|0|9|166|157|166
+9000947|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|10|219|0|73|107|0|180|1|4|185|180|185
+9000957|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|11|220|0|50|120|0|170|2|6|178|170|178
+9000967|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25035|U.E. Defensores Del Acre|12|116|0|35|53|0|88|0|3|91|88|91
+9000977|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|12|U.E. German Busch|1|220|0|44|118|0|162|0|6|168|162|168
+9000987|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|12|U.E. German Busch|2|220|0|80|93|0|173|1|3|177|173|177
+9000997|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|12|U.E. German Busch|3|220|0|51|118|0|169|0|4|173|169|173
+9001007|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|12|U.E. German Busch|4|219|0|64|110|0|174|3|4|181|174|181
+9001017|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|12|U.E. German Busch|5|122|0|26|75|0|101|0|1|102|101|102
+9001027|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|13|(Cárcel) Cárcel Pública (Villa Busch)|1|219|0|77|85|0|162|0|6|168|162|168
+9001037|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|13|(Cárcel) Cárcel Pública (Villa Busch)|2|105|0|40|27|0|67|0|8|75|67|75
+9001047|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|1|220|0|73|105|0|178|1|3|182|178|182
+9001057|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|2|220|0|67|98|0|165|2|8|175|165|175
+9001067|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|3|220|0|59|97|0|156|1|8|165|156|165
+9001077|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|4|220|0|77|94|0|171|2|5|178|171|178
+9001087|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|5|220|0|85|86|0|171|2|5|178|171|178
+9001097|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|14|U.E. De Bella Vista|6|162|0|46|69|0|115|2|7|124|115|124
+9001107|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26074|U. E. Abaroa|1|55|0|20|32|0|52|0|0|52|52|52
+9001117|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26076|U. E. Juan Evo Morales Ayma|1|219|0|81|88|0|169|0|23|192|169|192
+9001127|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26076|U. E. Juan Evo Morales Ayma|2|97|0|29|49|0|78|0|5|83|78|83
+9001137|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26077|U. E. Marcelo Quiroga Santa Cruz|1|220|0|61|106|0|167|2|14|183|167|183
+9001147|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26077|U. E. Marcelo Quiroga Santa Cruz|2|145|0|49|67|0|116|0|4|120|116|120
+9001157|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26078|U. E. Alfredo Ovando Candia|1|219|0|32|53|0|85|0|4|89|85|89
+9001167|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26078|U. E. Alfredo Ovando Candia|2|220|0|38|45|0|83|1|5|89|83|89
+9001177|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|26078|U. E. Alfredo Ovando Candia|3|164|0|16|41|0|57|0|2|59|57|59
+9001187|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32001|Postal (Temporal)|1|206|0|56|121|0|177|0|8|185|177|185
+9001197|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|1|217|0|50|105|0|155|0|12|167|155|167
+9001207|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|2|220|0|71|80|0|151|0|10|161|151|161
+9001217|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|3|220|0|58|109|0|167|0|11|178|167|178
+9001227|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|4|220|0|55|106|0|161|0|12|173|161|173
+9001237|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|5|220|0|70|89|0|159|3|6|168|159|168
+9001247|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|6|220|0|70|93|0|163|1|5|169|163|169
+9001257|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|7|220|0|55|115|0|170|2|3|175|170|175
+9001267|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|8|219|0|58|104|0|162|3|12|177|162|177
+9001277|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|9|220|0|54|121|0|175|1|13|189|175|189
+9001287|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|10|220|0|67|102|0|169|1|6|176|169|176
+9001297|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25036|U. E. Vaca Diez (Medio)|11|80|0|24|30|0|54|0|6|60|54|60
+9001307|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25037|Kínder Víctor León Arueta|1|220|0|62|110|0|172|0|3|175|172|175
+9001317|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25037|Kínder Víctor León Arueta|2|39|0|20|10|0|30|0|1|31|30|31
+9001327|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25042|U.E. Villa Cruz|1|101|0|25|50|0|75|0|2|77|75|77
+9001337|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|1|220|0|60|110|0|170|3|6|179|170|179
+9001347|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|2|220|0|66|98|0|164|1|6|171|164|171
+9001357|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|3|220|0|59|92|0|151|1|9|161|151|161
+9001367|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|4|220|0|79|95|0|174|1|8|183|174|183
+9001377|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|5|220|0|67|98|0|165|2|10|177|165|177
+9001387|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|6|220|0|60|103|0|163|1|10|174|163|174
+9001397|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|7|220|0|63|105|0|168|1|10|179|168|179
+9001407|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|32002|INCOS Pando (Temporal)|8|57|0|21|23|0|44|0|2|46|44|46
+9001417|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|1|220|0|78|91|0|169|0|6|175|169|175
+9001427|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|2|219|0|66|103|0|169|1|5|175|169|175
+9001437|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|3|216|0|51|101|0|152|0|3|155|152|155
+9001447|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|4|217|0|63|89|0|152|0|8|160|152|160
+9001457|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|5|220|0|56|108|0|164|1|8|173|164|173
+9001467|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25033|U. E. Sofia Calpiñeiro|6|134|0|36|61|0|97|1|9|107|97|107
+9001477|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25938|U.E. Héroes de la Distancia|1|220|0|59|102|0|161|0|4|165|161|165
+9001487|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25938|U.E. Héroes de la Distancia|2|220|0|48|109|0|157|1|3|161|157|161
+9001497|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25938|U.E. Héroes de la Distancia|3|220|0|55|115|0|170|1|9|180|170|180
+9001507|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25938|U.E. Héroes de la Distancia|4|220|0|79|89|0|168|1|3|172|168|172
+9001517|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25938|U.E. Héroes de la Distancia|5|215|0|60|100|0|160|0|4|164|160|164
+9001527|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|1|220|0|54|122|0|176|4|10|190|176|190
+9001537|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|2|217|0|67|113|0|180|1|3|184|180|184
+9001547|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|3|218|0|55|98|0|153|1|15|169|153|169
+9001557|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|4|220|0|67|115|0|182|0|6|188|182|188
+9001567|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|5|219|0|59|89|0|148|2|19|169|148|169
+9001577|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|6|218|0|60|104|0|164|0|7|171|164|171
+9001587|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|7|219|0|72|101|0|173|0|7|180|173|180
+9001597|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|8|220|0|61|118|0|179|0|4|183|179|183
+9001607|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|9|218|0|56|115|0|171|2|13|186|171|186
+9001617|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|10|220|0|74|109|0|183|0|3|186|183|186
+9001627|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|11|220|0|63|111|0|174|0|8|182|174|182
+9001637|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|12|219|0|71|115|0|186|1|4|191|186|191
+9001647|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|13|220|0|60|108|0|168|0|9|177|168|177
+9001657|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25040|U. E. Manuela Rojas|14|168|0|39|97|0|136|0|6|142|136|142
+9001667|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|1|219|0|61|108|0|169|0|5|174|169|174
+9001677|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|2|219|0|69|100|0|169|1|6|176|169|176
+9001687|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|3|219|0|48|124|0|172|0|7|179|172|179
+9001697|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|4|219|0|54|112|0|166|1|6|173|166|173
+9001707|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|5|219|0|59|115|0|174|1|8|183|174|183
+9001717|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|6|220|0|67|97|0|164|1|30|195|164|195
+9001727|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|7|220|0|60|82|0|142|2|43|187|142|187
+9001737|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|8|220|0|56|120|0|176|2|11|189|176|189
+9001747|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|9|220|0|57|107|0|164|0|9|173|164|173
+9001757|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|10|220|0|77|93|0|170|1|5|176|170|176
+9001767|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|11|220|0|68|107|0|175|0|4|179|175|179
+9001777|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|12|219|0|65|123|0|188|0|7|195|188|195
+9001787|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|2773|Cobija|25041|U. E. Simon Bolivar|13|143|0|49|62|0|111|2|7|120|111|120
+9001797|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|4277|Mejillones|25963|U.E. Mejillones|1|146|0|37|100|0|137|0|9|146|137|146
+9001807|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|1|Cobija|4278|Villa Rosario|25964|U. E. María Barzola|1|150|0|41|96|0|137|0|0|137|137|137
+9001817|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|1|220|0|67|97|0|164|0|7|171|164|171
+9001827|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|2|218|0|76|91|0|167|0|6|173|167|173
+9001837|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|3|220|0|75|104|0|179|1|6|186|179|186
+9001847|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|4|219|0|81|85|0|166|2|11|179|166|179
+9001857|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|5|220|0|82|97|0|179|2|6|187|179|187
+9001867|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|6|220|0|65|103|0|168|0|9|177|168|177
+9001877|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|14|U.E. Mons. Santisteban|7|56|0|13|32|0|45|0|2|47|45|47
+9001887|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|1|219|0|72|105|0|177|0|6|183|177|183
+9001897|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|2|218|0|77|86|0|163|1|7|171|163|171
+9001907|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|3|219|0|74|101|0|175|2|6|183|175|183
+9001917|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|4|220|0|88|86|0|174|1|4|179|174|179
+9001927|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|5|219|0|69|96|0|165|0|9|174|165|174
+9001937|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|6|220|0|99|79|0|178|0|7|185|178|185
+9001947|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1113|Porvenir|15|U.E. Bruno Racua|7|46|0|6|34|0|40|0|0|40|40|40
+9001957|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1115|Villa Bella-(km 6)|15|U.E. Villa Bella|1|220|0|81|107|0|188|0|8|196|188|196
+9001967|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1115|Villa Bella-(km 6)|15|U.E. Villa Bella|2|220|0|74|106|0|180|1|8|189|180|189
+9001977|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1115|Villa Bella-(km 6)|15|U.E. Villa Bella|3|219|0|78|104|0|182|0|10|192|182|192
+9001987|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|1115|Villa Bella-(km 6)|15|U.E. Villa Bella|4|152|0|64|63|0|127|0|5|132|127|132
+9001997|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|2798|Campoana|16|U.E.  Gutembert Cruz|1|219|0|68|103|0|171|4|16|191|171|191
+9002007|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|2798|Campoana|16|U.E.  Gutembert Cruz|2|25|0|5|14|0|19|0|2|21|19|21
+9002017|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|4276|Trinchera|25962|U. E. Maranguapi|1|61|0|8|48|0|56|0|5|61|56|61
+9002027|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|2|Porvenir|4446|Comunidad Campesina ""5 de Agosto""|26366|U.E. 23 de Marzo|1|59|0|33|23|0|56|0|1|57|56|57
+9002037|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1116|San Pedro de Bolpebra|19|U.E. De Bolpebra|1|91|0|33|28|0|61|2|0|63|61|63
+9002047|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1118|Nareuda|20|U.E.  Genoveva Rios|1|219|0|67|84|0|151|2|3|156|151|156
+9002057|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1118|Nareuda|20|U.E.  Genoveva Rios|2|236|0|61|89|0|150|1|5|156|150|156
+9002067|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1119|Mukden|19|U.E. De Mukden|1|220|0|39|103|0|142|65|13|220|142|220
+9002077|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1119|Mukden|19|U.E. De Mukden|2|220|0|50|99|0|149|0|11|160|149|160
+9002087|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|1119|Mukden|19|U.E. De Mukden|3|45|0|12|18|0|30|0|2|32|30|32
+9002097|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3260|Bioceánica|1|U.E. Bioceanica|1|227|0|32|76|0|108|0|3|111|108|111
+9002107|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3261|3 Arroyos|1|U.E. Tres Estrellas|1|104|0|57|31|0|88|0|1|89|88|89
+9002117|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3407|Litoral|1|U.E.  Santa Lucia|1|220|0|58|59|0|117|0|6|123|117|123
+9002127|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3407|Litoral|1|U.E.  Santa Lucia|2|135|0|32|45|0|77|0|0|77|77|77
+9002137|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3526|Yaminahua|1|U.E. De Yaminahua|1|122|0|31|50|0|81|1|2|84|81|84
+9002147|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3869|San Miguel de Machineri|1|U.E. San Miguel|1|23|0|14|4|0|18|0|0|18|18|18
+9002157|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|3872|Nueva Canaán|1|U.E. Nueva Canaán|1|170|0|56|56|0|112|1|4|117|112|117
+9002167|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|4264|Vera Cruz|25950|U. E. Vera Cruz|1|147|0|37|63|0|100|1|5|106|100|106
+9002177|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|3|Bolpebra|4447|Comunidad Campesina Turística Ecológica ""Arca de Noé""|26367|U.E. Arca de Noé|1|147|0|18|91|0|109|0|1|110|109|110
+9002187|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1125|Villa el Carmen|23|U.E. Buena Vista|1|148|0|55|63|0|118|0|2|120|118|120
+9002197|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1126|Karamanu Km 35|25|U.E.  Km. 35 de Karamanu|1|219|0|51|109|0|160|0|2|162|160|162
+9002207|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1126|Karamanu Km 35|25|U.E.  Km. 35 de Karamanu|2|217|0|63|102|0|165|2|4|171|165|171
+9002217|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1126|Karamanu Km 35|25|U.E.  Km. 35 de Karamanu|3|27|0|8|16|0|24|0|1|25|24|25
+9002227|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1127|San Antonio Km 60|24|U.E.  Km. 60 de San Antonio|1|207|0|93|61|0|154|2|8|164|154|164
+9002237|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|1129|Mapajo (Samahuma)|26|U.E. Mapajo|1|125|0|38|52|0|90|0|5|95|90|95
+9002247|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3262|Santa Lucía|1|U.E.  Hugo Antequera|1|218|0|59|101|0|160|0|3|163|160|163
+9002257|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3262|Santa Lucía|1|U.E.  Hugo Antequera|2|220|0|65|94|0|159|0|2|161|159|161
+9002267|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3262|Santa Lucía|1|U.E.  Hugo Antequera|3|197|0|74|66|0|140|1|4|145|140|145
+9002277|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3386|Montevideo|1|U.E. Jorge Benito Vera|1|217|0|50|62|0|112|0|2|114|112|114
+9002287|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3386|Montevideo|1|U.E. Jorge Benito Vera|2|228|0|54|62|0|116|0|5|121|116|121
+9002297|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3527|Florida (Tco's)|1|U.E. De Florida|1|24|0|16|2|0|18|1|1|20|18|20
+9002307|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3874|San Pedro|1|U.E. Simon Bolívar|1|153|0|30|90|0|120|0|6|126|120|126
+9002317|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|3890|Santa Lourdes|1|U.E. Santa Lourdes|1|162|0|46|63|0|109|0|5|114|109|114
+9002327|GOBERNADOR(A)|32|Bolivia|9|Pando|1|Nicolás Suárez|4|Bella Flor|4367|Castañera Campoana|26079|U. E. 24 de Septiembre|1|149|0|43|73|0|116|0|1|117|116|117
+9002337|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|1|217|0|66|81|0|147|2|0|149|147|149
+9002347|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|2|220|0|76|76|0|152|2|5|159|152|159
+9002357|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|3|220|0|58|83|0|141|0|4|145|141|145
+9002367|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|4|219|0|63|106|0|169|1|4|174|169|174
+9002377|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|5|220|0|67|70|0|137|1|7|145|137|145
+9002387|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|6|220|0|70|75|0|145|0|2|147|145|147
+9002397|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|7|220|0|49|114|0|163|2|3|168|163|168
+9002407|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|8|220|0|43|104|0|147|0|3|150|147|150
+9002417|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|9|220|0|73|63|0|136|2|4|142|136|142
+9002427|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|10|220|0|59|100|0|159|0|4|163|159|163
+9002437|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|27|U.E. La Salle Pedro Villa Lobos|11|153|0|53|52|0|105|1|2|108|105|108
+9002447|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|25572|U.E. Puerto Rico|1|220|0|40|47|0|87|2|5|94|87|94
+9002457|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|25572|U.E. Puerto Rico|2|219|0|43|30|0|73|0|3|76|73|76
+9002467|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1130|Puerto Rico|25572|U.E. Puerto Rico|3|143|0|31|21|0|52|1|1|54|52|54
+9002477|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1134|Conquista|28|U.E.  German Busch|1|219|0|90|89|0|179|0|7|186|179|186
+9002487|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1134|Conquista|28|U.E.  German Busch|2|238|0|106|95|0|201|0|3|204|201|204
+9002497|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1136|Batraja|29|U.E. Batraja|1|214|0|104|72|0|176|1|8|185|176|185
+9002507|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|1136|Batraja|29|U.E. Batraja|2|98|0|43|35|0|78|0|11|89|78|89
+9002517|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|2753|Manchester|40|U.E. Manchester|1|150|0|1|24|0|25|0|2|27|25|27
+9002527|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|3066|Palestina (Rio Orthon)|1|U.E. De Palestina|1|74|0|32|25|0|57|0|1|58|57|58
+9002537|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|3256|San Antonio del Maty|1|U.E.  San Antonio|1|122|0|91|13|0|104|1|5|110|104|110
+9002547|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|3399|Puerto Madre de Dios|1|U.E.  Silverio Rojas Gonzales|1|120|0|71|31|0|102|1|3|106|102|106
+9002557|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|3528|Mandarino|1|U.E.  Los Mandarinos|1|75|0|41|20|0|61|2|0|63|61|63
+9002567|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|4272|Alianza|25958|U. E. Alianza|1|30|0|15|7|0|22|0|0|22|22|22
+9002577|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|1|Puerto Rico|4273|Abaroa Km. 10|25959|U. E. Carmelo Mojica|1|77|0|54|14|0|68|1|3|72|68|72
+9002587|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|1140|Loma Velarde|34|U.E.  12 de Abril|1|220|0|138|17|0|155|1|4|160|155|160
+9002597|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|1140|Loma Velarde|34|U.E.  12 de Abril|2|58|0|33|9|0|42|1|1|44|42|44
+9002607|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|3401|3 Estrellas (Tco's)|1|U.E.  Jorge Haensel|1|220|0|82|45|0|127|0|1|128|127|128
+9002617|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|3401|3 Estrellas (Tco's)|1|U.E.  Jorge Haensel|2|126|0|65|14|0|79|0|0|79|79|79
+9002627|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|3879|Fortaleza|1|U.E. Fortaleza|1|220|0|120|16|0|136|1|4|141|136|141
+9002637|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|2|San Pedro|3879|Fortaleza|1|U.E. Fortaleza|2|39|0|26|0|0|26|0|0|26|26|26
+9002647|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1143|Filadelfia|36|U.E. Filadelfia|1|220|0|81|98|0|179|0|4|183|179|183
+9002657|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1143|Filadelfia|36|U.E. Filadelfia|2|220|0|76|105|0|181|0|2|183|181|183
+9002667|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1143|Filadelfia|36|U.E. Filadelfia|3|158|0|56|63|0|119|1|9|129|119|129
+9002677|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1145|Villa Bella (Purisima)|37|U.E. Villa Bella|1|234|0|68|126|0|194|2|4|200|194|200
+9002687|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1146|Empresiña|38|U.E. Nueva Empresa|1|219|0|60|115|0|175|1|7|183|175|183
+9002697|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1146|Empresiña|38|U.E. Nueva Empresa|2|111|0|42|47|0|89|1|2|92|89|92
+9002707|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1147|Buyuyo|39|U.E. Buyuyo|1|235|0|104|83|0|187|1|4|192|187|192
+9002717|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1149|Chive|41|U.E. Chive|1|220|0|60|94|0|154|2|8|164|154|164
+9002727|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1149|Chive|41|U.E. Chive|2|141|0|52|55|0|107|1|3|111|107|111
+9002737|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|1151|Curichon|42|U.E. Curichon|1|179|0|109|38|0|147|1|5|153|147|153
+9002747|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|2802|San Antonio (Chive)|46|U.E. San Antonio|1|67|0|38|24|0|62|0|0|62|62|62
+9002757|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|2897|Luz de America|80|U.E. Luz De America|1|159|0|80|62|0|142|1|1|144|142|144
+9002767|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3257|Alta Gracia|1|U.E. Alta Gracia|1|84|0|45|21|0|66|0|0|66|66|66
+9002777|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3298|Holanda|1|U.E. De Holanda|1|219|0|72|100|0|172|2|4|178|172|178
+9002787|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3298|Holanda|1|U.E. De Holanda|2|128|0|37|60|0|97|1|4|102|97|102
+9002797|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3299|Soberania|1|U.E.  Juancito Pinto|1|220|0|50|120|0|170|0|7|177|170|177
+9002807|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3299|Soberania|1|U.E.  Juancito Pinto|2|201|0|56|95|0|151|1|7|159|151|159
+9002817|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3402|La Cruz|1|U.E. De La Cruz|1|46|0|20|9|0|29|0|0|29|29|29
+9002827|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3529|Florida (Chive)|1|U.E.  Florida|1|144|0|51|72|0|123|1|4|128|123|128
+9002837|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3758|Nueva Alianza|1|U.E. Nueva Alianza|1|219|0|79|98|0|177|1|2|180|177|180
+9002847|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3758|Nueva Alianza|1|U.E. Nueva Alianza|2|116|0|54|34|0|88|2|1|91|88|91
+9002857|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3880|Villa Primero de Mayo|1|U.E. Villa America|1|109|0|16|62|0|78|0|2|80|78|80
+9002867|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|3909|Ucia|1|U.E. Ucia|1|120|0|56|40|0|96|2|3|101|96|101
+9002877|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|4269|Puerto Sucre|25955|U. E. Puerto Sucre|1|225|0|92|105|0|197|1|3|201|197|201
+9002887|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|4270|11 de Septiembre|25956|U. E. Arnoldo Gonzales|1|138|0|51|53|0|104|1|1|106|104|106
+9002897|GOBERNADOR(A)|32|Bolivia|9|Pando|2|Manuripi|3|Filadelfia|4271|18 de Noviembre|25957|U. E. Bernardino Racua|1|124|0|44|49|0|93|0|2|95|93|95
+9002907|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|1|220|0|118|59|0|177|0|7|184|177|184
+9002917|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|2|220|0|94|59|0|153|1|7|161|153|161
+9002927|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|3|220|0|94|59|0|153|0|3|156|153|156
+9002937|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|4|220|0|109|48|0|157|0|2|159|157|159
+9002947|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|5|220|0|103|60|0|163|0|3|166|163|166
+9002957|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1155|Gonzalo Moreno|47|U.E. Luz En El Camino|6|85|0|37|17|0|54|1|3|58|54|58
+9002967|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1157|Portachuelo Centro|51|U.E.  Portachuelo Dios Es Amor|1|220|0|184|4|0|188|0|2|190|188|190
+9002977|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1157|Portachuelo Centro|51|U.E.  Portachuelo Dios Es Amor|2|88|0|75|2|0|77|0|0|77|77|77
+9002987|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1157|Portachuelo Centro|26075|Sede Portachuelo Medio (Tacana)|1|144|0|118|16|0|134|0|1|135|134|135
+9002997|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1159|Agua Dulce|49|U.E. Agua Dulce|1|230|0|109|69|0|178|2|3|183|178|183
+9003007|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1160|Las Piedras|48|U.E. Pedro Herrera|1|220|0|82|85|0|167|0|7|174|167|174
+9003017|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1160|Las Piedras|48|U.E. Pedro Herrera|2|220|0|63|86|0|149|5|2|156|149|156
+9003027|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1160|Las Piedras|48|U.E. Pedro Herrera|3|226|0|65|100|0|165|3|3|171|165|171
+9003037|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1161|Miraflores|50|U.E. Miraflores|1|220|0|92|73|0|165|0|5|170|165|170
+9003047|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|1161|Miraflores|50|U.E. Miraflores|2|40|0|24|12|0|36|0|1|37|36|37
+9003057|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|1|Puerto Gonzalo Moreno|3881|Contravaricia|1|U.E. 2 de Agosto|1|211|0|117|38|0|155|1|2|158|155|158
+9003067|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1142|Loreto|35|U.E.  6 de Junio|1|102|0|38|43|0|81|0|4|85|81|85
+9003077|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1164|Palestina (M.de Dios)|55|U.E.  Genoveva Rios|1|80|0|46|9|0|55|1|5|61|55|61
+9003087|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1166|Trinidacito|54|U.E. Gregoria Destre Maturana|1|234|0|96|104|0|200|0|3|203|200|203
+9003097|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1172|Blanca Flor|52|U.E.  24 de Septiembre|1|220|0|97|66|0|163|2|3|168|163|168
+9003107|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1172|Blanca Flor|52|U.E.  24 de Septiembre|2|220|0|76|80|0|156|0|5|161|156|161
+9003117|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1172|Blanca Flor|52|U.E.  24 de Septiembre|3|220|0|75|70|0|145|1|3|149|145|149
+9003127|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1172|Blanca Flor|52|U.E.  24 de Septiembre|4|220|0|73|67|0|140|0|3|143|140|143
+9003137|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|1172|Blanca Flor|52|U.E.  24 de Septiembre|5|179|0|75|56|0|131|0|1|132|131|132
+9003147|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|2754|Vista Alegre|56|U.E. Vista Alegre|1|220|0|74|84|0|158|5|17|180|158|180
+9003157|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|2754|Vista Alegre|56|U.E. Vista Alegre|2|42|0|13|22|0|35|0|0|35|35|35
+9003167|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|2800|Galilea|57|U.E. Galilea|1|224|0|88|82|0|170|0|2|172|170|172
+9003177|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3067|Sinaí|1|U.E.  Bruno Racua|1|78|0|29|34|0|63|4|5|72|63|72
+9003187|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3068|Ibéria|1|U.E. De Iberia|1|61|0|24|21|0|45|1|0|46|45|46
+9003197|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3253|Naranjal|1|U.E.  Soledad|1|229|0|97|89|0|186|0|2|188|186|188
+9003207|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3254|Rosario|1|U.E. De Rosario|1|66|0|15|22|0|37|0|1|38|37|38
+9003217|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3428|San Salvador|25028|Escuela Eduardo Abaroa|1|90|0|35|34|0|69|0|3|72|69|72
+9003227|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3882|Samaria|1|U.E. 21 de Septiembre|1|90|0|21|57|0|78|0|2|80|78|80
+9003237|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3883|Genechiquia|1|U.E. 6 de Agosto|1|157|0|135|3|0|138|3|3|144|138|144
+9003247|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3884|Exaltación|1|U.E. 27 de Mayo|1|162|0|88|46|0|134|1|9|144|134|144
+9003257|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|3885|Nuevo Horizonte|1|U.E. Nuevo Horizonte|1|132|0|30|58|0|88|0|2|90|88|90
+9003267|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|4173|Charal|25573|U.E. Charal|1|131|0|47|25|0|72|0|5|77|72|77
+9003277|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|4251|El Retorno|25934|U.E. Simón Bolivar|1|90|0|39|35|0|74|0|1|75|74|75
+9003287|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|4252|Brigida|25935|U.E. Samuel Guillen|1|59|0|28|21|0|49|0|0|49|49|49
+9003297|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|4254|Navidad|25937|U.E. 12 de Abril|1|90|0|25|51|0|76|0|2|78|76|78
+9003307|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|2|San Lorenzo|4275|Nueva Esperanza|25961|U. E. 21 de Septiembre|1|91|0|27|54|0|81|1|1|83|81|83
+9003317|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|1|220|0|81|66|0|147|2|3|152|147|152
+9003327|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|2|220|0|73|61|0|134|1|7|142|134|142
+9003337|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|3|220|0|72|77|0|149|2|5|156|149|156
+9003347|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|4|220|0|87|58|0|145|2|5|152|145|152
+9003357|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|5|219|0|74|64|0|138|1|6|145|138|145
+9003367|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|6|220|0|92|66|0|158|1|2|161|158|161
+9003377|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|7|220|0|69|65|0|134|2|4|140|134|140
+9003387|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|8|220|0|80|72|0|152|0|3|155|152|155
+9003397|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|9|220|0|67|89|0|156|0|5|161|156|161
+9003407|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|10|220|0|84|67|0|151|0|3|154|151|154
+9003417|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|11|220|0|82|68|0|150|3|4|157|150|157
+9003427|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1173|El Sena|62|U.E. El Sena|12|110|0|47|26|0|73|1|3|77|73|77
+9003437|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1176|Santa Rosa del Manupare|65|U.E. Santa Rosa|1|124|0|65|14|0|79|1|5|85|79|85
+9003447|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1177|Las Mercedes|64|U.E. Las Mercedes|1|86|0|47|22|0|69|3|2|74|69|74
+9003457|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1179|Palma Real|66|U.E. Palma Real|1|220|0|79|52|0|131|3|9|143|131|143
+9003467|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1179|Palma Real|66|U.E. Palma Real|2|220|0|82|69|0|151|0|10|161|151|161
+9003477|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|1179|Palma Real|66|U.E. Palma Real|3|21|0|5|8|0|13|0|4|17|13|17
+9003487|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3252|Remanzo|1|U.E. Remanso|1|82|0|34|31|0|65|1|2|68|65|68
+9003497|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3300|El Turi (Carretera)|2|U.E.  2 de Agosto|1|119|0|41|56|0|97|0|3|100|97|100
+9003507|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3317|Pekin|2|U.E. De Pekin|1|70|0|21|23|0|44|0|2|46|44|46
+9003517|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3530|El Turi (Comunidad Indígena)|1|U.E. El Turi (Rio Manurape)|1|209|0|101|42|0|143|4|15|162|143|162
+9003527|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3886|San Salvador|1|U.E. San Francisco|1|197|0|64|58|0|122|1|12|135|122|135
+9003537|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|3891|Santa Elena|1|U.E. Santa Elena|1|136|0|75|30|0|105|1|7|113|105|113
+9003547|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4014|Copacabana|25330|U.E. 4 de Agosto|1|206|0|113|38|0|151|1|15|167|151|167
+9003557|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4103|Villa Cotoca|25512|U.E. 1ro. de Mayo|1|100|0|41|39|0|80|0|2|82|80|82
+9003567|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4104|Brígida II|25513|U.E. Mahanain|1|63|0|26|25|0|51|0|0|51|51|51
+9003577|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4105|Monte Sinai|25514|U.E. Juana Azurduy De Padilla|1|111|0|35|59|0|94|0|2|96|94|96
+9003587|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4106|San Antonio|25515|U.E. San Antonio|1|105|0|45|29|0|74|3|8|85|74|85
+9003597|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4274|Girado|25960|U. E. Nuestra Señora del Carmen|1|220|0|104|51|0|155|0|8|163|155|163
+9003607|GOBERNADOR(A)|32|Bolivia|9|Pando|3|Madre de Dios|3|Sena|4274|Girado|25960|U. E. Nuestra Señora del Carmen|2|28|0|10|12|0|22|0|4|26|22|26
+9003617|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|1181|Santa Rosa del Abuna|69|U.E. Abuna|1|219|0|54|77|0|131|1|6|138|131|138
+9003627|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|1181|Santa Rosa del Abuna|69|U.E. Abuna|2|74|0|20|23|0|43|1|0|44|43|44
+9003637|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3301|1 de Mayo|1|U.E.  Zacarias Moreno|1|220|0|87|76|0|163|0|4|167|163|167
+9003647|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3301|1 de Mayo|1|U.E.  Zacarias Moreno|2|105|0|49|33|0|82|0|3|85|82|85
+9003657|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3697|Villa El Carmen|1|U.E. Augusto Gutierrez Banzer|1|170|0|84|66|0|150|1|3|154|150|154
+9003667|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3759|Nueva Esperanza(Urbanización Puerto Morales)|1|U.E. Genoveva Ríos|1|227|0|128|45|0|173|4|3|180|173|180
+9003677|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3910|Mariscal Antonio José de Sucre Bernardino Racua|1|U.E. Pedro Domingo Murrillo|1|102|0|60|26|0|86|1|0|87|86|87
+9003687|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|4253|Nacebe|25936|U.E. Benito Tirina Suarez|1|101|0|12|62|0|74|0|1|75|74|75
+9003697|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|4443|Comunidad ""Alto Bahia""|26363|U.E. Walter Melgar Mejía|1|77|0|55|10|0|65|1|0|66|65|66
+9003707|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|1185|Humaita|73|U.E. Humaita|1|220|0|57|84|0|141|1|10|152|141|152
+9003717|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|1185|Humaita|73|U.E. Humaita|2|220|0|56|93|0|149|3|1|153|149|153
+9003727|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|1185|Humaita|73|U.E. Humaita|3|78|0|29|22|0|51|0|3|54|51|54
+9003737|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|1186|Ingavi|74|U.E. Ingavi|1|155|0|54|53|0|107|1|2|110|107|110
+9003747|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|1187|Derrepente|75|U.E. Derrepente|1|65|0|10|43|0|53|0|0|53|53|53
+9003757|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|3531|Las Amalias|1|U.E. Las Amalias|1|44|0|17|13|0|30|1|0|31|30|31
+9003767|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|4265|Mapiri|25951|U. E. San Antonio|1|204|0|80|57|0|137|0|4|141|137|141
+9003777|GOBERNADOR(A)|32|Bolivia|9|Pando|4|Abuná|2|Ingavi|4266|Barro Alto|25952|U. E. 10 de Marzo|1|85|0|33|22|0|55|0|1|56|55|56
+9003787|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|2796|Nueva Esperanza|76|U.E.  Manuel Estremadoiro Martinez|1|219|0|70|23|0|93|0|1|94|93|94
+9003797|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|2796|Nueva Esperanza|76|U.E.  Manuel Estremadoiro Martinez|2|220|0|64|43|0|107|1|1|109|107|109
+9003807|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|2796|Nueva Esperanza|76|U.E.  Manuel Estremadoiro Martinez|3|115|0|35|18|0|53|0|0|53|53|53
+9003817|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3259|Arca de Israel|1|U.E.  Monte Sinai|1|220|0|45|74|0|119|0|2|121|119|121
+9003827|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3259|Arca de Israel|1|U.E.  Monte Sinai|2|24|0|3|8|0|11|0|0|11|11|11
+9003837|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3302|Puerto Consuelo|1|U.E. Rufino Chao|1|52|0|20|15|0|35|0|0|35|35|35
+9003847|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3404|Puerto Consuelo Area 2|1|U.E. Gral. Federico Román|1|220|0|38|75|0|113|0|3|116|113|116
+9003857|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3404|Puerto Consuelo Area 2|1|U.E. Gral. Federico Román|2|25|0|10|5|0|15|0|0|15|15|15
+9003867|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|3911|Gran Cruz|1|U.E. La Gran Cruz|1|203|0|65|22|0|87|0|4|91|87|91
+9003877|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|4107|Nueva Unión|25516|U.E. Bruno Racua|1|205|0|66|57|0|123|0|1|124|123|124
+9003887|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|1|Nueva Esperanza|4268|La Selva|25954|U. E. San Andrés|1|52|0|20|21|0|41|1|0|42|41|42
+9003897|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|1192|Loma Alta|77|U.E.  Andres Idagua|1|220|0|43|91|0|134|0|6|140|134|140
+9003907|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|1192|Loma Alta|77|U.E.  Andres Idagua|2|220|0|51|71|0|122|1|15|138|122|138
+9003917|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|1192|Loma Alta|77|U.E.  Andres Idagua|3|189|0|32|58|0|90|1|13|104|90|104
+9003927|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|1195|Enarevena|78|U.E. Enarevena|1|72|0|13|28|0|41|0|1|42|41|42
+9003937|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|3303|Santa Fé|1|U.E. Juana Azurduy De Padilla|1|112|0|44|12|0|56|2|3|61|56|61
+9003947|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|3405|Santa Crucito|1|U.E.  Roberto Gonzales|1|177|0|86|46|0|132|1|5|138|132|138
+9003957|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|4101|San Ignacio|25510|U.E. Mariscal Sucre|1|71|0|43|15|0|58|0|1|59|58|59
+9003967|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|4102|Perseverancia|25511|U.E. 24 de Junio|1|111|0|47|39|0|86|1|0|87|86|87
+9003977|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|4444|Comunidad Campesina ""Bella Brisa""|26364|U.E. Mario Cortez Vaca|1|66|0|24|30|0|54|1|2|57|54|57
+9003987|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|2|Villa Nueva|4445|Comunidad Campesina ""Triunfo""|26365|U.E. 24 de Septiembre|1|50|0|31|4|0|35|0|0|35|35|35
+9003997|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3065|Reserva|1|19 de Octubre|1|220|0|87|49|0|136|0|6|142|136|142
+9004007|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3065|Reserva|1|19 de Octubre|2|220|0|91|45|0|136|2|5|143|136|143
+9004017|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3065|Reserva|1|19 de Octubre|3|105|0|46|26|0|72|0|1|73|72|73
+9004027|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3532|San Martin del Pacahuara|1|U.E.  23 de Marzo|1|220|0|64|51|0|115|0|3|118|115|118
+9004037|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3532|San Martin del Pacahuara|1|U.E.  23 de Marzo|2|220|0|44|68|0|112|2|1|115|112|115
+9004047|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3532|San Martin del Pacahuara|1|U.E.  23 de Marzo|3|124|0|26|31|0|57|0|1|58|57|58
+9004057|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|3888|Villa Victoria|1|U.E. 11 de Septiembre|1|202|0|70|75|0|145|0|6|151|145|151
+9004067|GOBERNADOR(A)|32|Bolivia|9|Pando|5|Federico Román|3|Santos Mercado|4267|Chiripa|25953|U. E. 25 de Mayo|1|102|0|22|40|0|62|0|5|67|62|67
+9003618|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|1181|Santa Rosa del Abuna|69|U.E. Abuna|1|219|95|0|0|37|132|3|3|138|132|138
+9003628|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|1181|Santa Rosa del Abuna|69|U.E. Abuna|2|74|31|0|0|13|44|0|0|44|44|44
+9003638|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3301|1 de Mayo|1|U.E.  Zacarias Moreno|1|220|78|0|0|82|160|3|4|167|160|167
+9003648|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3301|1 de Mayo|1|U.E.  Zacarias Moreno|2|105|40|0|0|43|83|0|2|85|83|85
+9003658|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3697|Villa El Carmen|1|U.E. Augusto Gutierrez Banzer|1|170|39|0|0|113|152|1|1|154|152|154
+9003668|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3759|Nueva Esperanza(Urbanización Puerto Morales)|1|U.E. Genoveva Ríos|1|227|21|0|0|152|173|0|7|180|173|180
+9003678|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|3910|Mariscal Antonio José de Sucre Bernardino Racua|1|U.E. Pedro Domingo Murrillo|1|102|38|0|0|33|71|10|6|87|71|87
+9003688|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|4253|Nacebe|25936|U.E. Benito Tirina Suarez|1|101|28|0|0|45|73|0|2|75|73|75
+9003698|ASAMBLEISTA TERRITORIO|32|Bolivia|9|Pando|4|Abuná|1|Santa Rosa|4443|Comunidad ""Alto Bahia""|26363|U.E. Walter Melgar Mejía|1|77|2|0|0|63|65|0|1|66|65|66
